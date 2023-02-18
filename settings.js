@@ -19,19 +19,19 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['96891103640']
+global.owner = ['201029880323']
 global.premium = ['96891103640']
 global.ownernomer = '96891103640'
 global.ownername = '( الـمـطـور )'
 global.botname = '( بـوت غـوجـو )'
 global.footer = '( غـوجـو )'
-global.ig = 'https://github.com/nexusNw'
+global.ig = 'https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://chat.whatsapp.com/CKLmAGJo3iw5AvNM1KZee3'
 global.myweb = 'https://youtube.com/channel/UCPvrnWknQrgCSIeobXMP0Uw'
 global.packname = 'https://Wa.Me/+96891103640'
 global.author = '[ غـوجـو ]'
-global.sessionName = 'session'
+global.sessionName = 'session id'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
